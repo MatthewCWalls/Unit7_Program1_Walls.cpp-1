@@ -1,7 +1,7 @@
 /*
 Matthew Walls
 COSC-1436-57001
-This Program initializes the event structure and fills all fields with data
+This Program initializes the event structure and fills all fields with data.
 */
 #include <iostream>
 #include <iomanip>
